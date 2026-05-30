@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "A fully responsive, cross-platform Finance Tracker application with interactive billing reports, spending insights, and budgeting controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

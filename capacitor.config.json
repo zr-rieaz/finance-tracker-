@@ -1,0 +1,18 @@
+{
+  "appId": "com.rieaz.financetracker",
+  "appName": "Taka Tracker",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "buildOptions": {
+      "keystorePath": null,
+      "keystorePassword": null,
+      "keystoreAlias": null,
+      "keystoreAliasPassword": null,
+      "releaseType": "APK"
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
